@@ -3,3 +3,4 @@ credentials.json
 .vscode
 ENVDIR
 token.pickle
+localBackup.csv
